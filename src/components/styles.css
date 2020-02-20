@@ -224,7 +224,7 @@ a:hover {
 }
 .headerTitle {
   height: auto;
-  font-size: 28px;
+  font-size: 19px;
   line-height: 1.5;
   font-weight: 500;
   color: #fff !important;
@@ -377,7 +377,7 @@ blockquote {
 }
 
 .sideBarUL li a {
-  color: #fff;
+  color: #006400;
   font-size: 14px;
   font-weight: 500;
   line-height: 1.5;
@@ -429,8 +429,8 @@ blockquote {
 }
 
 .hideFrontLine  .active >a{
-  background-color: #542683;
-  color: #fff !important;
+  background-color: transparent;
+  color: #006400 !important;
 }
 .firstLevel ul li .collapser svg path {
   fill: #fff !important;
@@ -458,14 +458,14 @@ blockquote {
   padding-left: 15px;
 }
 .sideBarUL .item>a:hover {
-  background-color: #542683;
-  color: #fff !important;
+  background-color: transparent;
+  color: #006400 !important;
 }
 .showFrontLine .item >a:hover {
-  background-color: #542683;
+  background-color: transparent;
 }
 .showFrontLine .active >a {
-  color: #fff;
+  color: #006400;
   background-color: #473485;
 }
 

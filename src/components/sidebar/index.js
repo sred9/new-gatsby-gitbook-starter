@@ -47,7 +47,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
 const Sidebar = styled('aside')`
   width: 100%;
   /* background-color: rgb(245, 247, 249); */
-  /* border-right: 1px solid #ede7f3; */
+  /* border-right: 0px solid #ede7f3; */
   height: 100vh;
   overflow: auto;
   position: fixed;

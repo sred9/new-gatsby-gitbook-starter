@@ -20,6 +20,7 @@ const Content = styled('main')`
   flex-grow: 1;
   margin: 0px 1rem;
   margin-top: 3rem;
+  width:58.333333%;
 
   @media only screen and (max-width: 1023px) {
     padding-left: 0;
@@ -36,10 +37,10 @@ const MaxWidth = styled('div')`
   }
 `;
 const LeftSideBarWidth = styled('div')`
-  width: 220px;
+  width: 16.666667%;
 `;
 const RightSideBarWidth = styled('div')`
-  width: 294px;
+  width: 25%;
 `;
 const Layout = ({ children, location }) => (
   <ThemeProvider location={location}>

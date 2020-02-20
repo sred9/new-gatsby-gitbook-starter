@@ -18,7 +18,7 @@ const Wrapper = styled('div')`
 const Content = styled('main')`
   display: flex;
   flex-grow: 1;
-  margin: 0px 1rem;
+  margin: 0px 0.5rem;
   
   width:58.333333%;
   background-color:#fff;

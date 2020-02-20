@@ -46,7 +46,8 @@ a {
 
 
 body {
-  font-family: 'Roboto';
+  /*font-family: 'Roboto';*/
+  font-family: 'Lato', sans-serif;
 }
 .visibleMobile {
   display: none;

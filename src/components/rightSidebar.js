@@ -6,7 +6,7 @@ import './styles.css';
 import config from '../../config';
 
 const Sidebar = styled('aside')`
-  width: 100%;
+  width: ;
   background-color: #fff;
   border-right: 1px solid #ede7f3;
   height: 100vh;

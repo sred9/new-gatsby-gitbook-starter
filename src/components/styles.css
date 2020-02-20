@@ -1,5 +1,5 @@
 /*@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');*/
-@import url('https://fonts.googleapis.com/css?family=Assistant&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -33,7 +33,7 @@ html, body {
     "Apple Color Emoji",
     "Segoe UI Emoji",
     "Segoe UI Symbol";*/
-font-family: 'Assistant', sans-serif;
+font-family: 'Lato', sans-serif;
 
   font-size: 16px;
   background-color:#f8f9fa;
@@ -47,7 +47,7 @@ a {
 
 body {
   /*font-family: 'Roboto';*/
-font-family: 'Assistant', sans-serif;
+font-family: 'Lato', sans-serif;
 }
 .visibleMobile {
   display: none;

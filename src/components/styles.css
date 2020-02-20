@@ -348,14 +348,14 @@ blockquote {
 .headerNav {
   font-family: 'Roboto';
   padding: 0px 24px;
-  color: rgb(116, 76, 188);
+  color: #006400;
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
 }
 
 .headerNav a {
-  color: rgb(116, 76, 188);
+  color: #006400;
   text-decoration: none;
 }
 
@@ -504,7 +504,7 @@ blockquote {
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid rgb(116, 76, 188);
+  border-left: 2px solid #006400;
   padding: 0 16px;
   flex: 1;
   margin-top: 0;
@@ -644,13 +644,13 @@ blockquote {
 }
 
 .nextBtn:hover, .previousBtn:hover {
-  color: rgb(116, 76, 188);
+  color: #006400;
   text-decoration: none;
-  border: 1px solid rgb(116, 76, 188);
+  border: 1px solid #006400;
 }
 
 .nextBtn:hover .rightArrow, .previousBtn:hover .leftArrow {
-  color: rgb(116, 76, 188);
+  color: #006400;
 }
 
 /* tables.css */

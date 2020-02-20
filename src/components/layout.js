@@ -19,8 +19,9 @@ const Content = styled('main')`
   display: flex;
   flex-grow: 1;
   margin: 0px 1rem;
-  margin-top: 3rem;
+  
   width:58.333333%;
+  background-color:#fff;
 
   @media only screen and (max-width: 1023px) {
     padding-left: 0;

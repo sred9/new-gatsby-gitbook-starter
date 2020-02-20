@@ -253,7 +253,7 @@ a:hover {
 
 /* Header section starts here */
 .navBarDefault {
-  background-color: #372476;
+  background-color: #006400;
   border-radius: 0;
   border-top: 0;
   margin-bottom: 0;
@@ -265,7 +265,7 @@ a:hover {
   -moz-box-shadow: -1px 0px 4px 1px rgba(175,158,232,.8);
   -o-box-shadow: -1px 0px 4px 1px rgba(175,158,232,.4);
   z-index: 1;
-  padding: 15px;
+  padding: 4px;
   position: relative;
 }
 .navBarHeader {

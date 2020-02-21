@@ -372,8 +372,13 @@ blockquote {
 
 .sideBarUL {
   margin-top: 32px;
+  background-color:transparent;
 }
-
+ul.SideBarUL {
+    background-color: #fff;
+    border-radius: .25rem;
+    border: 1px solid rgba(0,0,0,.05);
+}
 .sideBarUL li {
   list-style-type: none;
   width: auto;
@@ -405,6 +410,9 @@ blockquote {
 }
 
 .rightSideBarUL {
+  margin-top: 32px;
+}
+ul.SideBarUL {
   margin-top: 32px;
 }
 

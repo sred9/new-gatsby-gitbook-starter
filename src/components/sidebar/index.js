@@ -57,7 +57,7 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  background-color: #fff;
+  background-color: transparent;
   /* Safari 4-5, Chrome 1-9 */
   /*background: linear-gradient(#372476, #3b173b);
 /*  background: /*-webkit-gradient(linear, 0% 0%, 0% 100%, from(#372476), to(#3b173b));*/

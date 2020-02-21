@@ -7,7 +7,7 @@ import config from '../../config';
 
 const Sidebar = styled('aside')`
   width: ;
-  background-color: #fff;
+  background-color: transparent;
   border-right: 0px solid #ede7f3;
   height: 100vh;
   overflow: auto;

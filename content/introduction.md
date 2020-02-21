@@ -23,7 +23,9 @@ Heading 5 text
 
 ###### Heading H6
 Heading 6 text
-
+<h1>Test Heading1</h1>
+<h1>Test Heading2</h1>
+<h1>Test Heading3</h1>
 ## Lists
 - Item 1
 - Item 2

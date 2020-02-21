@@ -377,7 +377,7 @@ blockquote {
   border: 1px solid rgba(0,0,0,.05);
 }
 ul.sideBarUL {
-  margin-top: 32px;
+  margin-top: 0.25rem;
   background-color:#fff;
   border-radius: .25rem;
   border: 1px solid rgba(0,0,0,.05);
@@ -992,5 +992,9 @@ img {
 padding:0 3rem 0 3rem;
 }
 .css-14zj307{
-padding:0 1rem 0 1rem;
+  padding:0 1rem 0 1rem;
+  background-color:#fff;
+  border-radius: .25rem;
+  border: 1px solid rgba(0,0,0,.05);
+  margin-top:0.25rem;
 }

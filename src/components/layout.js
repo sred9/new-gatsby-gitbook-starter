@@ -23,6 +23,10 @@ const Content = styled('main')`
   width:58.333333%;
   background-color:#fff;
 
+  border-radius: .25rem;
+  border: 1px solid rgba(0,0,0,.05);
+  margin-top:0.25rem;
+
   @media only screen and (max-width: 1023px) {
     padding-left: 0;
     margin: 0 10px;

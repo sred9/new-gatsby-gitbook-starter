@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 import { MDXProvider } from "@mdx-js/react";
 import ThemeProvider from "./themeProvider";
 import mdxComponents from "./mdxComponents";
-import Sidebar from "./sidebar";
+import Sidebar from "./testsidebar";
 import RightSidebar from "./rightSidebar";
 
 const Wrapper = styled('div')`
